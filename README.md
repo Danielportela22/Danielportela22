@@ -1,5 +1,4 @@
-### Hi there 👋
-:
+
 
 - 🔭 Eu trabalho com tecnologia
 - 🌱 Graduando Análise e Desenvolvimento de Sistemas

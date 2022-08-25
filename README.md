@@ -4,4 +4,4 @@
 - 🌱 Graduando Análise e Desenvolvimento de Sistemas
 - 👯 Estou procurando colaborar em Programação
 - 👯 Na busca de Estágios
-- 🤔 Estou procurando ajuda com desenvolvedores
+- 🤔 Estou procurando ajuda com programadores
